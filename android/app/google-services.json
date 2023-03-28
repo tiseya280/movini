@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "713654202763",
+    "project_id": "movini-d4ec9",
+    "storage_bucket": "movini-d4ec9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:713654202763:android:2b5b49d460035a8d007f8e",
+        "android_client_info": {
+          "package_name": "com.example.movini"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "713654202763-ap706ds0vhpj8o2e463lra4cc3kkcc8i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3ZOJqLPx0mdw5oGemrcU1ZV7Src4YGoo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "713654202763-ap706ds0vhpj8o2e463lra4cc3kkcc8i.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "713654202763-f4nd4b59dq23vns7g7m9uabusplkvs27.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.mobileProject"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
